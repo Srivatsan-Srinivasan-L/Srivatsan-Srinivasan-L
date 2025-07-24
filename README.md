@@ -36,9 +36,9 @@
 
 ## 📫 How to reach me:
 
-- 📧 [srivatsan.personal.email@example.com](mailto:srivatsan.personal.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/srivatsan-srinivasan-l/)
-- 💻 [My Portfolio](https://srivatsan-portfolio-site-link.com) _(optional)_
+- 📧 [srivatsan042@gmail.com](mailto:srivatsan042@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/srivatsan-s1501/)
+- 💻 [My Portfolio](https://portfolio-website-five-rouge-28.vercel.app/) _(optional)_
 
 ---
 
