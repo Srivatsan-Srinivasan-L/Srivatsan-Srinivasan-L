@@ -2,7 +2,7 @@
 
 ✨ _Welcome to my GitHub profile!_ ✨
 
-- 🎓 Passionate **Software Developer** focused on **PHP, Laravel, Java,Spring boot and ReactJs**.
+- 🎓 Passionate **Software Developer** focused on **PHP, Laravel, Java,Spring boot and React Js**.
 - 🚀 Building practical **projects** to sharpen my skills and help others.
 - 🌱 Currently learning **PHP,Laravel 12 Advanced, Odoo,**, and **clean architecture**.
 - 🛠️ Actively building:
