@@ -2,9 +2,9 @@
 
 ✨ _Welcome to my GitHub profile!_ ✨
 
-- 🎓 Passionate **Software Developer** focused on **PHP, Laravel, Java Full Stack, and React.js**.
+- 🎓 Passionate **Software Developer** focused on **PHP, Laravel, Java,Spring boot and ReactJs**.
 - 🚀 Building practical **projects** to sharpen my skills and help others.
-- 🌱 Currently learning **Laravel Advanced, Odoo, Java Spring Boot**, and **clean architecture**.
+- 🌱 Currently learning **PHP,Laravel 12 Advanced, Odoo,**, and **clean architecture**.
 - 🛠️ Actively building:
   - Online Food Ordering System 🍔
   - Budget Tracker 💰
@@ -38,7 +38,7 @@
 
 - 📧 [srivatsan042@gmail.com](mailto:srivatsan042@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/srivatsan-s1501/)
-- 💻 [My Portfolio](https://portfolio-website-five-rouge-28.vercel.app/) _(optional)_
+- 💻 [My Portfolio](https://portfolio-website-five-rouge-28.vercel.app/) 
 
 ---
 
